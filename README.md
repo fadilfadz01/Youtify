@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf96cb23-3154-4ad3-9ea3-d872e5dbd3f9" alt="Drawing" style="width: 150px; height: 150px"/>
+</p>
+
 # Youtify
 Your music, your way, always in tune with you.
 
